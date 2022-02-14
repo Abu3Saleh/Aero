@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'11', 'ver3':'\n• اصلاح خيار ارسال الفيديو لاكثر من 30 ثانيه.\n• اصلاح ارسال الصورة وباعلى جودة\n• مزيد إصلاحات وتحسينات أخرى\n' , 'dli':'https://almobrmg-almohtref2019.blogspot.com/2019/10/WhatsApp-Aero.html'}
+{'ver1':'9', 'ver2':'21', 'ver3':'\n• تحديث جديد مهم. \n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ عمل واتساب بشكل جيد.\n' , 'dli':'https://almobrmg-almohtref2019.blogspot.com/2019/10/WhatsApp-Aero.html'}

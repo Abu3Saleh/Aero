@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'25', 'ver3':'\n• تحديث جديد مهم. \n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ عمل واتساب بشكل جيد.\n' , 'dli':'https://almobrmg-almohtref2019.blogspot.com/2019/10/WhatsApp-Aero.html'}
+{'ver1':'9', 'ver2':'27', 'ver3':'\n• تحديث جديد مهم. \n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ عمل واتساب بشكل جيد.\n' , 'dli':'https://almobrmg-almohtref2019.blogspot.com/2019/10/WhatsApp-Aero.html'}
